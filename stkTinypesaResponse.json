@@ -1,0 +1,24 @@
+{
+  "Body": {
+    "stkCallback": {
+      "MerchantRequestID": "20807-23526552-1",
+      "CheckoutRequestID": "ws_CO_28032023171717388740408496",
+      "ResultCode": 0,
+      "ResultDesc": "The service request is processed successfully.",
+      "CallbackMetadata": {
+        "Item": [
+          { "Name": "Amount", "Value": 1 },
+          { "Name": "MpesaReceiptNumber", "Value": "RCS2TPE1F8" },
+          { "Name": "Balance" },
+          { "Name": "TransactionDate", "Value": 20230328171727 },
+          { "Name": "PhoneNumber", "Value": 254740408496 }
+        ]
+      },
+      "TinyPesaID": "3d019aa0-cd73-11ed-afac-630436de6acb",
+      "ExternalReference": "fortunelangat54@gmail.com",
+      "Amount": 1,
+      "Msisdn": "254740408496"
+    }
+  }
+}
+{"Body":{"stkCallback":{"MerchantRequestID":"5135-24190013-1","CheckoutRequestID":"ws_CO_28032023174947760740408496","ResultCode":0,"ResultDesc":"The service request is processed successfully.","CallbackMetadata":{"Item":[{"Name":"Amount","Value":1},{"Name":"MpesaReceiptNumber","Value":"RCS5TT5G29"},{"Name":"Balance"},{"Name":"TransactionDate","Value":20230328174959},{"Name":"PhoneNumber","Value":254740408496}]},"TinyPesaID":"c7c86490-cd77-11ed-b8aa-81cc7b5e43f6","ExternalReference":"fortunelangat54@gmail.com","Amount":1,"Msisdn":"254740408496"}}}{"Body":{"stkCallback":{"MerchantRequestID":"30569-23193184-1","CheckoutRequestID":"ws_CO_28032023180210548740408496","ResultCode":0,"ResultDesc":"The service request is processed successfully.","CallbackMetadata":{"Item":[{"Name":"Amount","Value":1},{"Name":"MpesaReceiptNumber","Value":"RCS4TUNLVU"},{"Name":"Balance"},{"Name":"TransactionDate","Value":20230328180221},{"Name":"PhoneNumber","Value":254740408496}]},"TinyPesaID":"81cf7950-cd79-11ed-ab41-41a5b8b9316a","ExternalReference":"test@mail.com","Amount":1,"Msisdn":"254740408496"}}}{"Body":{"stkCallback":{"MerchantRequestID":"37398-134087515-1","CheckoutRequestID":"ws_CO_28032023180446794740408496","ResultCode":1032,"ResultDesc":"Request cancelled by user","TinyPesaID":"dfa4b4a0-cd79-11ed-873a-377d630820ab","ExternalReference":"what@deeznuts","Amount":1,"Msisdn":"254740408496"}}}{"Body":{"stkCallback":{"MerchantRequestID":"49133-130047850-1","CheckoutRequestID":"ws_CO_28032023180857758740408496","ResultCode":0,"ResultDesc":"The service request is processed successfully.","CallbackMetadata":{"Item":[{"Name":"Amount","Value":1},{"Name":"MpesaReceiptNumber","Value":"RCS8TVHEXE"},{"Name":"Balance"},{"Name":"TransactionDate","Value":20230328180903},{"Name":"PhoneNumber","Value":254740408496}]},"TinyPesaID":"749cd1e0-cd7a-11ed-8531-bf03cf49f866","ExternalReference":"test4@mail.com","Amount":1,"Msisdn":"254740408496"}}}{"Body":{"stkCallback":{"MerchantRequestID":"5821-24215467-1","CheckoutRequestID":"ws_CO_28032023181445848740408496","ResultCode":0,"ResultDesc":"The service request is processed successfully.","CallbackMetadata":{"Item":[{"Name":"Amount","Value":1},{"Name":"MpesaReceiptNumber","Value":"RCS5TW87KJ"},{"Name":"Balance"},{"Name":"TransactionDate","Value":20230328181456},{"Name":"PhoneNumber","Value":254740408496}]},"TinyPesaID":"454adde0-cd7b-11ed-9b99-fdc16e523942","ExternalReference":"admin22@rhone.co.ke","Amount":1,"Msisdn":"254740408496"}}}{"Body":{"stkCallback":{"MerchantRequestID":"20801-23774857-1","CheckoutRequestID":"ws_CO_28032023182412312740408496","ResultCode":0,"ResultDesc":"The service request is processed successfully.","CallbackMetadata":{"Item":[{"Name":"Amount","Value":1},{"Name":"MpesaReceiptNumber","Value":"RCS9TXG9J3"},{"Name":"Balance"},{"Name":"TransactionDate","Value":20230328182419},{"Name":"PhoneNumber","Value":254740408496}]},"TinyPesaID":"95e2e930-cd7c-11ed-8741-433d34c0821d","ExternalReference":"benjafreepass@gmail.com","Amount":1,"Msisdn":"254740408496"}}}{"Body":{"stkCallback":{"MerchantRequestID":"5136-24458551-1","CheckoutRequestID":"ws_CO_28032023185749443740408496","ResultCode":0,"ResultDesc":"The service request is processed successfully.","CallbackMetadata":{"Item":[{"Name":"Amount","Value":1},{"Name":"MpesaReceiptNumber","Value":"RCS2U24X8U"},{"Name":"Balance"},{"Name":"TransactionDate","Value":20230328185756},{"Name":"PhoneNumber","Value":254740408496}]},"TinyPesaID":"48821380-cd81-11ed-be79-e9e1dddcbbb4","ExternalReference":"langat54@gmail.com","Amount":1,"Msisdn":"254740408496"}}}

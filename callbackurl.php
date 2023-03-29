@@ -16,12 +16,7 @@ $PhoneNumber = $callbackContent->Body->stkCallback->CallbackMetadata->Item[4]->V
 $Reference = $callbackContent->Body->stkCallback->ExternalReference;
 
 if ($ResultCode == 0) {
-    $localhost = "localhost";
-    $username = "root";
-    $password = "";
-    $database = "tinybills";
-    
-    $conn = mysqli_connect($localhost, $username, $password, $database);
+    include_once('./conn.php');
 
     // Check connection
     if ($conn->connect_error) {

@@ -2,13 +2,7 @@
 if(isset($_GET['account']) && $_GET['status'] == "success"){
   $account_no = $_GET['account'];
   // Establish a database connection
-  $conn = mysqli_connect("localhost", "root", "", "tinybills");
-
-  // Check if the connection was successful
-  if (!$conn) {
-    die("Connection failed: " . mysqli_connect_error());
-  }
-
+   include_once('./conn.php');
   // Prepare the SQL query
   $sql = "SELECT * FROM tinypesa WHERE Reference = '$account_no'";
 
